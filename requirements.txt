@@ -1,0 +1,30 @@
+# Core
+torch
+numpy
+pandas
+
+# NLP & Machine Learning
+transformers
+peft
+bitsandbytes
+trl
+sentence-transformers
+rank_bm25
+nltk
+underthesea
+scikit-learn
+
+# Evaluation
+rouge-score
+sacrebleu
+
+# Web Scraping & Data processing
+selenium
+beautifulsoup4
+gdown
+
+# Utilities
+tqdm
+seaborn
+matplotlib
+jupyter
